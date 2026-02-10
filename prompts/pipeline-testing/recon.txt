@@ -1,1 +1,1 @@
-Use the save_deliverable MCP tool with `deliverable_type: "RECON"` and `content: "Reconnaissance analysis complete"`. Then say "Done".
+Use Playwright to navigate to http://host.docker.internal:3000 and take a screenshot. Then use the save_deliverable MCP tool with `deliverable_type: "RECON"` and `content: "Reconnaissance analysis complete - browser test successful"`. Then say "Done".
